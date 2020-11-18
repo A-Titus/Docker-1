@@ -1,1 +1,1 @@
-docker run -i --rm alpine
+winpty docker run -it --rm alpine
