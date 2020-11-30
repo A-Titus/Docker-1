@@ -9,4 +9,4 @@ RUN tar xvf teamspeak3-server_linux_amd64-3.1.1.tar.bz2
 RUN rm teamspeak3-server_linux_amd64-3.1.1.tar.bz2
 
 EXPOSE 9987/UDP 30033 10011
-ENTRYPOINT sh ts3server_minimal_runscript.sh
+
