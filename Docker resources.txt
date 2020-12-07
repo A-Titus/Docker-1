@@ -1,0 +1,24 @@
+https://www.macadamian.com/learn/docker-machine-basic-examples/
+https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html
+http://docs.docker.oeynet.com/toolbox/faqs/troubleshoot/#solutions  --setting env variables
+https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-docker/
+https://linuxconfig.org/how-to-retrieve-docker-container-s-internal-ip-address
+https://medium.com/@Grigorkh/docker-for-beginners-part-2-running-your-first-container-7cb1ef829f79
+https://stackoverflow.com/questions/48623005/docker-error-the-input-device-is-not-a-tty-if-you-are-using-mintty-try-prefi
+https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
+https://hub.docker.com/_/mysql
+https://phoenixnap.com/kb/mysql-docker-container
+https://upcloud.com/community/tutorials/wordpress-with-docker/
+https://medium.com/@migueldoctor/run-mysql-phpmyadmin-locally-in-3-steps-using-docker-74eb735fa1fc
+https://docs.docker.com/engine/reference/commandline/container_logs/
+https://docs.docker.com/engine/reference/commandline/swarm_init/
+https://docs.docker.com/engine/reference/commandline/swarm_join/
+https://docs.docker.com/engine/reference/commandline/service_create/
+https://hub.docker.com/r/42school/engineering-bay/
+https://stackoverflow.com/questions/49538037/how-to-remove-all-services-in-docker-swarm/49548827
+https://thenewstack.io/docker-basics-how-to-use-dockerfiles/
+https://www.vultr.com/docs/how-to-install-teamspeak-3-server-on-debian-9-stretch
+https://www.digitalocean.com/community/questions/fast-easy-tutorial-setup-teamspeak-server-on-debian-9-7
+https://hub.docker.com/_/teamspeak/
+https://hub.docker.com/_/rails
+https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/
